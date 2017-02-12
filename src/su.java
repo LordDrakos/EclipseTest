@@ -5,5 +5,7 @@ public class su {
 		// TODO Auto-generated method stub
 
 	}
+	public void caca(){
+	int a = 0;}
 
 }
